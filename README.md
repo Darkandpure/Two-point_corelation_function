@@ -1,1 +1,1 @@
-# Two-point_corelation_function
+# Two-point corelation function
